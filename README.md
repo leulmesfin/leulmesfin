@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leul Mesfin</h1>
 <h3 align="center">An aspiring Software Engineer from Maryland</h3>
 
-- 🔭 I’m currently working on **NBA Game stat predictor and Gainz Gym App**
+- 🔭 I’m currently working on a **NBA Game stat predictor and Gainz Gym App**
 
 - 🌱 I’m currently learning **Machine Learning**
 
