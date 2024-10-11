@@ -1,10 +1,5 @@
 <h1 align="center">Hello 👋, I'm Leul Mesfin</h1>
 
-
-- 🔭 I’m currently working on a **NBA Game stat predictor and Gainz Gym App**
-
-- 🌱 I’m currently learning **Machine Learning**
-
 - 📫 How to reach me **leulmesfin152025@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
